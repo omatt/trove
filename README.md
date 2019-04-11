@@ -8,6 +8,10 @@
 
 ## B
 
+| Romaji | Japanese | English | MyAnimeList Link |
+|--------|----------|---------|------------------|
+| Boku wa Mari no Naka | ぼくは麻理のなか | Inside Mari | [Details](https://myanimelist.net/manga/36267/Boku_wa_Mari_no_Naka) |
+
 ## C
 
 ## D
@@ -33,10 +37,6 @@
 *<sup>Himegoto, lit: Secret Princess. Widely known as Himegoto even in English</sup>
 
 ## I
-
-| Romaji | Japanese | English | MyAnimeList Link |
-|--------|----------|---------|------------------|
-| Boku wa Mari no Naka | ぼくは麻理のなか | Inside Mari | [Details](https://myanimelist.net/manga/36267/Boku_wa_Mari_no_Naka) |
 
 ## J
 
