@@ -32,6 +32,8 @@
 | Romaji | Japanese | English | MyAnimeList Link |
 |--------|----------|---------|------------------|
 | Haite Kudasai, Takamine San | ドメスティックな彼女 | Please Wear It, Takamine San | [Details](https://myanimelist.net/manga/117837/haite_kudasai_takamine_san) |
+| Hapinesu | ハピネス | Happiness | [Details](https://myanimelist.net/manga/85173/Happiness) |
+| Hen na Neesan | へんなねえさん | There is something odd about her | [Details](https://myanimelist.net/manga/85987/Hen_na_Neesan) |
 | Himegoto: Juukyuusai no Seifuku | ヒメゴト ～十九歳の制服～ | Himegoto* : School Uniform at the age of 19 | [Details](https://myanimelist.net/manga/43415/Himegoto__Juukyuusai_no_Seifuku) |
 
 *<sup>Himegoto, lit: Secret Princess. Widely known as Himegoto even in English</sup>
@@ -56,17 +58,35 @@
 
 ## O
 
+| Romaji | Japanese | English | MyAnimeList Link |
+|--------|----------|---------|------------------|
+| Oyasumi Punpun | おやすみプンプン | Goodnight Punpun | [Details](https://myanimelist.net/manga/4632/Oyasumi_Punpun) |
+
 ## P
 
 ## Q
 
 ## R
 
+| Romaji | Japanese | English | MyAnimeList Link |
+|--------|----------|---------|------------------|
+| Reiraku | 零落 | Downfall | [Details](https://myanimelist.net/manga/104272/Reiraku) |
+
+
 ## S
+
+| Romaji | Japanese | English | MyAnimeList Link |
+|--------|----------|---------|------------------|
+| Sensei no Shiroi Uso | 先生の白い嘘 | Teacher's White Lie | [Details](https://myanimelist.net/manga/112933/Sensei_no_Shiroi_Uso) |
+| Sukuuru Ningyo | スクール人魚 | School Mermaid | [Details](https://myanimelist.net/manga/6262/School_Ningyo) |
 
 ## T
 
 ## U
+
+| Romaji | Japanese | English | MyAnimeList Link |
+|--------|----------|---------|------------------|
+| Umibe no Onna-no-Ko | うみべの女の子 | A Girl on the Shore | [Details](https://myanimelist.net/manga/17353/Umibe_no_Onnanoko) |
 
 ## V
 
