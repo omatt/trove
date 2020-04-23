@@ -44,7 +44,7 @@
 
 | Romaji | Japanese | English | MyAnimeList Link |
 |--------|----------|---------|------------------|
-| Kangoku Gakuen | https://myanimelist.net/manga/117837/haite_kudasai_takamine_san | Prison School | [Details](https://myanimelist.net/manga/117837/haite_kudasai_takamine_san) |
+| Kangoku Gakuen | 監獄学園〈プリズンスクール〉 | Prison School | [Details](https://myanimelist.net/anime/30240/Prison_School) |
 | Kisu x shisu | キス×シス | Kiss x Sis | [Details](https://myanimelist.net/manga/3048/Kiss_x_Sis) |
 | Koe de Oshigoto | こえでおしごと! | Work Using Voice! | [Details](https://myanimelist.net/manga/10837/Koe_de_Oshigoto) |
 
