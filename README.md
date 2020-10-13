@@ -1,4 +1,4 @@
-# phackers #terenecchi archive
+# [phackers](https://phackers.slack.com) #terenecchi archive
 
 ## A
 
